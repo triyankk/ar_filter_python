@@ -14,7 +14,7 @@ This project is an Augmented Reality (AR) Mirror application using Flask, OpenCV
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/ar_mirror_python.git
+   git clone [https://github.com/yourusername/ar_mirror_python.git](https://github.com/triyankk/ar_filter_python.git)
    cd ar_mirror_python
    ```
 
